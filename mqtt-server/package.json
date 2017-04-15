@@ -1,0 +1,13 @@
+{
+  "name": "mqtt-broker-client",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mosca": "latest",
+    "mqtt": "latest",
+    "debug": "~2.6.3"
+  }
+}
